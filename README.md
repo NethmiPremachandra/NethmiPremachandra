@@ -1,14 +1,4 @@
-# Hey, I'm Nethmi Premanandana
-
-<div align="center">
-  
-**Data Science Undergraduate | Machine Learning & Deep Learning**
-   
-</div>
-
----
-
-## About Me
+## Hey, I'm Nethmi Premanandana
 
 I'm a passionate data science undergraduate from Sri Lanka, specializing in machine learning and deep learning. I love transforming complex data into actionable insights and building AI solutions that make a difference.
 
