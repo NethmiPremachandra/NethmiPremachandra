@@ -36,12 +36,6 @@ I'm a passionate data science undergraduate from Sri Lanka, specializing in mach
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-## Featured Projects
-
-- **Machine Learning Models**: Building predictive models for data analysis
-- **Deep Learning Applications**: Neural networks for computer vision and NLP
-- **Data Analytics**: End-to-end data processing and visualization pipelines
-- **AI Integration**: Full-stack applications with ML capabilities
 
 ## Let's Connect!
 
