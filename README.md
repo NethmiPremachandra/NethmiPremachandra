@@ -42,7 +42,7 @@ I'm a passionate data science undergraduate from Sri Lanka, specializing in mach
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nethsha0122@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nethmi-premanandana)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/nethmi-premanandana](https://www.linkedin.com/in/nethmi-premachandra-64aa44320/))
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NethmiPremachandra)
   
 </div>
